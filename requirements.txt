@@ -11,7 +11,7 @@ django-chartjs==2.1.0
 django-mysql==3.7.1
 django-bootstrap==0.2.4
 django-widget-tweaks==1.4.8
-django-filter==2.3.0
+django-filter==2.4.0
 dj-chartjs==1.0.6
 mysql-client==0.0.1
 mysql-connector==2.2.9
